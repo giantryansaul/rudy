@@ -1,0 +1,61 @@
+"main task:
+clean all task in the house,
+before the timer runs out.
+the messier the job,
+the longer it will
+take to clean up.","active cleaner:
+(human's only)
+time the active cleaner
+event to get the
+task done faster.
+misses will clean slower,
+and waste precious
+time off the clock.","active eater: (cat's only)
+time the active eater
+to re-energize yourself
+to continue your
+mischievous ways.
+misses will eat slower,
+and waste precious
+time off the clock.","single player:
+play as the human, as they
+try to tidy up their house,
+and keep it clean, so they
+can relax and enjoy
+their weekend.
+the only problem is,
+there are some little
+troublemakers, who think
+that it's a fun game to
+watch their human clean
+up after them.","multiplayer:
+player 1 will play as the
+human cleaning the house,
+while the secondary player(s)
+will play as the cat's
+making the human's house
+their own personal
+scratching post.","the human:
+run around the house cleaning
+up after your mischievous
+cats, trying to keep the
+house as clean as possible
+before the timer runs out.
+make sure to time those
+active cleaners, to clean
+up as fast as possible.","the cat's:
+run around causing mischief
+and making messes to keep
+your human busy, trying to
+keep the place as messy as
+possible before the timer
+runs out.","watch your energy
+meter! each time you make a
+mess, it drains your energy
+meter, the size of the mess
+drains more meter.
+
+go to your food & water bowls
+and interact to begin the
+active eater, and begin
+restoring your energy."
